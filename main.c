@@ -10,6 +10,7 @@ int main(int argc, char const *argv[]) {
     {
         printf("%d",i);
         printf("merhaba");
+        printf("devam");
         
     }
     return 0;
