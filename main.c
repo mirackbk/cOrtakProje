@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main() {
+int main(int argc, char const *argv[]) {
     printf("Hello World!\n");
     printf("naber");
     printf("samet");
@@ -11,7 +11,7 @@ int main() {
         printf("%d",i);
         printf("merhaba");
         printf("devam");
-        
+
     }
     return 0;
 }
