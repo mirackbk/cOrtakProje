@@ -1,0 +1,10 @@
+# Çıktı / derlenmiş çalıştırılabilir dosyalar
+/main
+*.exe
+
+# Derleme klasörü
+build/
+
+# IDE & Sistem dosyaları
+.vscode/
+.DS_Store
